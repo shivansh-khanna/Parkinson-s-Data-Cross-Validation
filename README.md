@@ -14,5 +14,6 @@ Task 1: Testing on the training set
 Task 2: Cross-validating at the group level
 
 Task 3: Custom cross-validation on Parkinson’s data
+
 In this dataset, the goal is to classify whether somebody has Parkinson’s disease or not based on
 speech data.
